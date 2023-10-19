@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="background">#2C2E43</color>
+    <color name="text_or_icon">#FFFFFF</color>
+    <color name="secondary_text">#9CA1B5</color>
+    <color name="dashboard_item1">#01CD98</color>
+    <color name="dashboard_item2">#5351FC</color>
+    <color name="dashboard_item3">#E64000</color>
+    <color name="dashboard_item4">#F6B900</color>
+
+</resources>

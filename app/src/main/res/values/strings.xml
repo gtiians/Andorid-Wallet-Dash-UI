@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Wallet DashboardUI</string>
+    <string name="my_wallet">My Wallet</string>
+    <string name="mr_garv">Mr. Garv</string>
+    <string name="usd">USD</string>
+    <string name="_108">108</string>
+    <string name="savings">Savings</string>
+    <string name="eur">EUR</string>
+    <string name="_999">999</string>
+    <string name="main_income">Main Income</string>
+    <string name="my_wallet_level_7">My Wallet Level 7</string>
+    <string name="cad">CAD</string>
+    <string name="_777">777</string>
+    <string name="expense">Expense</string>
+    <string name="inr">INR</string>
+    <string name="_5500">5500</string>
+    <string name="assets">Assets</string>
+</resources>
